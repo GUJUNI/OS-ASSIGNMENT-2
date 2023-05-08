@@ -5,7 +5,7 @@ This REPO contain "Practical Shell Scripts.Pdf" file for practical work.
 
 This file contain 25 shell script questions. Upload each script seperately with "ans<ques.No>.sh" name.
 
-<h3 style="colour: green; font-size:16px"> EG: script - 1 solution file will be uploaded as "ans1.sh".</h3>
+### EG: script - 1 solution file will be uploaded as "ans1.sh".
 
 
 # REVIEW PROCESS

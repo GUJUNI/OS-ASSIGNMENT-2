@@ -1,6 +1,7 @@
 <style>
-red { color: red }
-blue { color: blue }
+H1{color:Blue !important;}
+H2{color:DarkOrange !important;}
+p{color:Black !important;}
 </style>
 
 # OS-ASSIGNMENT-2

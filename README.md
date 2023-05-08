@@ -4,7 +4,7 @@ This REPO contain "Practical Shell Scripts.Pdf" file for practical work.
 
 This file contain 25 shell script questions. Upload each script seperately with "ans<ques.No>.sh" name.
 
-```diff 
+```diff
   + EG: script - 1 solution file will be uploaded as "ans1.sh". 
 ```
 

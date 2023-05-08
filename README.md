@@ -1,3 +1,10 @@
+
+```diff
+- This is a red colored line
++ This is a green colored line
+@@ This is a purple colored line @@
+```
+
 # OS-ASSIGNMENT-2
 
 This REPO contain "Practical Shell Scripts.Pdf" file for practical work.

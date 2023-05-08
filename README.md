@@ -1,16 +1,17 @@
-<style>
-H1{color:Blue !important;}
-H2{color:DarkOrange !important;}
-p{color:Black !important;}
-</style>
-
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 # OS-ASSIGNMENT-2
 
 This REPO contain "Practical Shell Scripts.Pdf" file for practical work.
 
 This file contain 25 shell script questions. Upload each script seperately with "ans<ques.No>.sh" name.
 
-<red> EG: script - 1 solution file will be uploaded as "ans1.sh".</red>
+@@ EG: script - 1 solution file will be uploaded as "ans1.sh".@@
 
 # REVIEW PROCESS
 
